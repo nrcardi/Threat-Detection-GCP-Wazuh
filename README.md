@@ -1,6 +1,6 @@
-# `Cloud-Native SIEM & Honeypot: Monitoring GCP`
+# `Wazuh SIEM & Linux Honeypot: Monitoring through Google Cloud Platform (GCP)`
 
-This project involves the deployment of a live Linux Honeypot on Google Cloud Platform (GCP), monitored by a Wazuh (SIEM) manager. By intentionally exposing the instance to the public internet, I captured and analyzed real-time adversary behavior, ranging from automated brute-force attacks to host-based anomaly detections.
+This project involves the deployment of a live Linux Honeypot on GCP, monitored by a Wazuh (SIEM) manager. By intentionally exposing the instance to the public internet, I captured and analyzed real-time adversary behavior, which mostly included login attempts through ssh brute forcing.
 -
 <img width="1855" height="961" alt="Screenshot from 2026-03-16 15-29-35" src="https://github.com/user-attachments/assets/5de64909-9625-4156-927e-a1ffd8f4151a" />
 -
