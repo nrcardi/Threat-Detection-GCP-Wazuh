@@ -61,4 +61,4 @@ This project highlights the necessity of active monitoring in cloud environments
 
 ### Technical Appendix: Screenshot Gallery
 
-Screenshots of further detailed alerts can be found in the [**/images**](./images) folder of this repository, along with the incorporated firewall setting for the linux honeypot and google cloud console showing the two vm instances.
+Screenshots of further detailed alerts can be found in the [**/images**](./images) folder of this repository, along with the incorporated firewall setting for the linux honeypot, and google cloud console showing the two vm instances.
