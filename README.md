@@ -1,4 +1,4 @@
-                                                           PROJECT OVERVIEW
+PROJECT OVERVIEW
 ---
 This project involves the deployment of a live Linux Honeypot on Google Cloud Platform (GCP), monitored by a Wazuh (SIEM) manager. By intentionally exposing the instance to the public internet, I captured and analyzed real-time adversary behavior, ranging from automated brute-force attacks to host-based anomaly detections.
 ---
