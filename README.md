@@ -5,7 +5,7 @@ This project involves the deployment of a live Linux Honeypot on GCP, monitored 
 
 ---
 
-# Threat Hunting: Event Count Dashboard
+## Threat Hunting: Event Count Dashboard
 
 <img width="1855" height="961" alt="Screenshot from 2026-03-16 15-29-35" src="https://github.com/user-attachments/assets/5de64909-9625-4156-927e-a1ffd8f4151a" />
 
@@ -27,7 +27,7 @@ Key Metrics
 
 ---
 
-# MITRE ATT&CK Framework: Event Count Dashboard
+## MITRE ATT&CK Framework: Event Count Dashboard
 
 A feature of Wazuh is incorporating the MITRE ATT&CK Framework to analyze the types of tactics and techniques adversaries are employing to try and break into the systems. The top tactics included credential access and lateral movement, employed by password guessing ssh login credentials. 
 
@@ -37,7 +37,7 @@ A feature of Wazuh is incorporating the MITRE ATT&CK Framework to analyze the ty
 
 ---
 
-# Source IP Address Visual Map
+## Source IP Address Visual Map
 
 Another feature of Wazuh includes creating visualization maps.  The map below visualizes the geographic origin of these connection attempts.
 
@@ -50,9 +50,15 @@ Observation:
 
 --- 
 
-# Conclusion
+## Conclusion
 This project highlights the necessity of active monitoring in cloud environments. 
 
 **Key Takeaway:** SIEM tools like Wazuh provide the visibility needed for actionable security intelligence.
 
 **Next Steps:** Implement active responses to automatically block malicious IPs after a threshold of failed login attempts.
+
+---
+
+### Technical Appendix: Screenshot Gallery
+
+Screenshots of further detailed alerts can be found in the [**/images**](./images) folder of this repository, along with the incorporated firewall setting for the linux honeypot and google cloud console showing the two vm instances.
