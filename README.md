@@ -2,17 +2,17 @@
 
 This project involves the deployment of a live Linux Honeypot on GCP, monitored by a Wazuh (SIEM) manager. By intentionally exposing the instance to the public internet, I captured and analyzed real-time adversary behavior, which mostly included brute force login attempts through ssh.
 -
-                        Threat Hunting Event Count Dashboard
+                              Threat Hunting Event Count Dashboard
 <img width="1855" height="961" alt="Screenshot from 2026-03-16 15-29-35" src="https://github.com/user-attachments/assets/5de64909-9625-4156-927e-a1ffd8f4151a" />
 
 Blah blah blah
 
-                        MITRE ATT&CK Framework Dashboard                                                    
+                              MITRE ATT&CK Framework Dashboard                                                    
 <img width="1855" height="961" alt="Screenshot from 2026-03-16 15-37-19" src="https://github.com/user-attachments/assets/35c566e8-0ee8-41bf-aa93-9a4d4bfa7125" />
 
 blah blah blah
 
-                        Source IP Address Visual Map
+                              Source IP Address Visual Map
                                                       
 Once the honeypot was live, it was targeted by automated scanners and botnets within minutes. The map below visualizes the geographic origin of these connection attempts.
 -
